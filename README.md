@@ -1,6 +1,6 @@
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi There 👋</h2>
 
-<h2 align="center">Github Status</h2>
+<h2 align="center">My Favorite Thing</h2>
 
 <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
