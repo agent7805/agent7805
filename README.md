@@ -13,7 +13,7 @@
 
 <h2 align="center">My Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Agent7805&repo=DiscordBot)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">Github Status</h2>
 
