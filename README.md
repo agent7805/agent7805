@@ -21,4 +21,4 @@
 
 <h2 align="center">Top Langs</h2>
 
-[![Agent0876's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Agent7805)](github.com/agent7805)
+[![Agent0876's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=agent7805)](github.com/agent7805)
