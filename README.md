@@ -13,11 +13,11 @@
 
 <h2 align="center">My Projects</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Agent7805&repo=DiscordBot)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agent7805&repo=DiscordBot)](https://github.com/agent7805/DiscordBots)
 
 <h2 align="center">Github Status</h2>
 
-[![Agent0876's github stats](https://github-readme-stats.vercel.app/api?username=Agent7805)](github.com/agent7805)
+[![Agent0876's github stats](https://github-readme-stats.vercel.app/api?username=agent7805)](github.com/agent7805)
 
 <h2 align="center">Top Langs</h2>
 
